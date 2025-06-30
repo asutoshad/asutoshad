@@ -23,10 +23,11 @@ Artificial Intelligence • Machine Learning • Cybersecurity • Networking
 
 ---
 
-## 🌟 Let's Connect
+##  Let's Connect
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/asutoshadhikari/))  
-🌐 [Portfolio]([https://your-portfolio.com](https://asutoshadhikari.com.np/))
+🔗 [LinkedIn](https://www.linkedin.com/in/asutoshadhikari/)  
+🌐 [Portfolio](https://asutoshadhikari.com.np/)
+
 
 ---
 
