@@ -7,7 +7,7 @@
 
 
 
-**Other Interests:**  
+** Interests:**  
 Artificial Intelligence • Machine Learning • Cybersecurity • Networking
 
 ---
