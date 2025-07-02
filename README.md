@@ -7,21 +7,14 @@
 
 
 
-** Interests:**  
-Artificial Intelligence • Machine Learning • Cybersecurity • Networking
-
----
 
 
 
 
 
 
-## 📈 GitHub Stats
 
-![Asutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=asutoshad&show_icons=true&theme=radical)
 
----
 
 ##  Let's Connect
 
