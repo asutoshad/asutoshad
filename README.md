@@ -16,7 +16,7 @@
 
 
 
-##  Let's Connect
+## 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/asutoshadhikari/)  
 🌐 [Portfolio](https://asutoshadhikari.com.np/)
