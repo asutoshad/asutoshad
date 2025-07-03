@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Asutosh 
+# Hi, I'm Asutosh 
 
 
 📫 Reach me at: mradhikari999@gmail.com
 
----
+
 
 
 
@@ -22,7 +22,4 @@
 🌐 [Portfolio](https://asutoshadhikari.com.np/)
 
 
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
